@@ -1,0 +1,15 @@
+- Design, develop, and deploy C# and the .NET framework.
+
+
+• software development.
+• OOP and design patterns.
+• SQL Server database
+ C# and MVC, .Net framework, .Net core.
+SQL, LINQ, JQuery and Entity Frameworks.
+ Angular AngularJS,  React , ReactJS, AJAX, javaScript, CSS, HTML and HTML5.
+Multi-threading, timer, events and delegate.
+ Web Service SOAP and REST API.
+ Python.
+SQL Server Database and performance tuning.
+MVC, Real-time, SOLID principles, broadcasting, events listeners, Caching
+Razor, Dependency Injection
